@@ -22,11 +22,25 @@ class CheckMark extends ImplicitlyAnimatedWidget {
           onEnd: onEnd,
         );
 
+  /// Whether to show the check mark or circle.
+  /// Changing triggers animation.
+  ///
+  /// Defaults to false.
   final bool active;
+
+  /// Used for the active check mark.
   final Color activeColor;
+
+  /// Used for the inactive circle.
   final Color inactiveColor;
+
+  /// Defaults to 5.
   final double strokeWidth;
+
+  /// Defaults to [StrokeJoin.round].
   final StrokeJoin strokeJoin;
+
+  /// Defaults to [StrokeCap.round].
   final StrokeCap strokeCap;
 
   @override
