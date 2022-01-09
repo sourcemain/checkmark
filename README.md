@@ -3,7 +3,7 @@ It can also be styled.
 
 ## Appearance
 
-![](https://media.giphy.com/media/cU7ePDg27laedsrcp7/giphy.gif)
+![](https://media.giphy.com/media/stjy5VIfjE8NEIuW4Q/giphy.gif)
 
 ## Parameters
 

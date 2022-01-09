@@ -1,6 +1,6 @@
 name: checkmark
 description: Animated check mark. Customise colors, curves, duration, and more.
-version: 0.0.2
+version: 0.0.2+1
 homepage: https://github.com/sourcemain/checkmark
 repository: https://github.com/sourcemain/checkmark
 
